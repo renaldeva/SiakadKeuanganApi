@@ -74,7 +74,7 @@ https://mahasiswa-api-psi.vercel.app
 ## Struktur Project
 
 ```
-SiakadKeuangan.API/
+SiakadKeuanganAPI/
 ├── Controllers/
 │   ├── MahasiswaController.cs       # Endpoint data mahasiswa
 │   ├── KeuanganController.cs        # Endpoint tagihan & pembayaran
